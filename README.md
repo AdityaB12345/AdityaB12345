@@ -12,8 +12,8 @@ I enjoy building systems that combine software engineering with data-driven prob
 - **Software Engineering @ AegisQX**  
   Building a **Chrome Manifest V3 anti-phishing extension** in TypeScript using service workers, content scripts, DOM analysis, heuristic risk scoring, and navigation controls.
 
-- **Security Research**  
-  Developing **containerized LXC honeypots** and Python/Bash data pipelines to collect and analyze attacker behavior, commands, and network activity.
+- **Containerized Honeypots**  
+  Developing **LXC honeypots** and Python/Bash data pipelines to collect and analyze attacker behavior, commands, and network activity.
 
 ## Connect
 
